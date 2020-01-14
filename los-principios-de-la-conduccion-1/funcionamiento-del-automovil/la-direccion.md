@@ -1,4 +1,4 @@
-# La dirección
+# El sistema de dirección
 
 La dirección se desalinea con mayor rapidez cuando el vehículo es sometido a sobrecargas, así como cuando topa contra el borde de una solera u otro obstáculo, o cae en hoyos.
 

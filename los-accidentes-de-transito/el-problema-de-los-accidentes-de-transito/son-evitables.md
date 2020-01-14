@@ -1,4 +1,10 @@
-# Son evitables
+---
+description: >-
+  El análisis de los datos de accidentes revela que se tiene el conocimiento de
+  dónde, cuándo y por qué ocurren.
+---
+
+# Evitar los accidentes de tránsito
 
 Se afirma que es un error llamar a los accidentes de tránsito “accidentes”. Se define accidente como: “suceso eventual del que involuntariamente resulta un daño” y se le asocia a un fenómeno casual, impredecible e incontrolable.
 

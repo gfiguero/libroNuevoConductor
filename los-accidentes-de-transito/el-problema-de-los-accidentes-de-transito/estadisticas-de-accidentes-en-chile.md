@@ -1,3 +1,9 @@
+---
+description: >-
+  Carabineros de Chile es la organización responsable de recopilar y centralizar
+  los datos de accidentes.
+---
+
 # Estadísticas de accidentes en Chile
 
 Anualmente en Chile se registran más de 86.000 accidentes. Como consecuencia de éstos fallecen aproximadamente 1.600 personas , lo que significa que diariamente mueren entre 4 y 5 personas en las vías públicas. En promedio 550 de ellas son atropelladas.

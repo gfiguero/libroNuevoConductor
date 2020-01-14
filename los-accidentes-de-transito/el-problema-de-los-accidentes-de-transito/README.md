@@ -1,6 +1,12 @@
+---
+description: >-
+  Más de 3.000 personas fallecen cada día en el mundo como consecuencia de los
+  accidentes de tránsito.
+---
+
 # El problema de los accidentes de tránsito
 
-Más de 3.000 personas fallecen cada día en el mundo como consecuencia de los accidentes de tránsito. Éstos son la primera causa de muerte en los jóvenes. Por lo anterior, organizaciones internacionales, como la Organización Mundial de la Salud \(OMS\), califican la situación de los accidentados de tránsito como un problema prioritario de salud pública en todo el mundo.
+Los accidentes de tránsito son la primera causa de muerte en los jóvenes. Por lo anterior, organizaciones internacionales, como la Organización Mundial de la Salud \(OMS\), califican la situación de los accidentados de tránsito como un problema prioritario de salud pública en todo el mundo.
 
 En Chile, al igual que en el resto del mundo, los accidentes de tránsito constituyen una de las principales causas de mortalidad, sobre todo en la población joven, entre 15 y 29 años, representando la segunda causa de muerte después de los suicidios.
 
@@ -16,47 +22,3 @@ Si un accidente de tránsito fuera un suceso eventual, la probabilidad de sufrir
 ¿Ha pensado usted que si un conductor no usa su cinturón, no usa el casco o, maneja en estado de ebriedad, no es sólo una “decisión personal”? Si ese conductor sufre un accidente nos afecta a todos, ya que todos pagamos directa o indirectamente su decisión.
 {% endhint %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Tipo de costo</th>
-      <th style="text-align:left">Costo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Materiales</td>
-      <td style="text-align:left">
-        <p>Da&#xF1;os a los veh&#xED;culos y a su carga.</p>
-        <p>Da&#xF1;os a la propiedad p&#xFA;blica.</p>
-        <p>Da&#xF1;os a la propiedad privada.</p>
-        <p>Da&#xF1;os al medio ambiente.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Salud</td>
-      <td style="text-align:left">
-        <p>Primeros auxilios, traslado en ambulancia.</p>
-        <p>Tratamiento m&#xE9;dico de heridos.</p>
-        <p>Rehabilitaci&#xF3;n.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Administrativos</td>
-      <td style="text-align:left">
-        <p>Polic&#xED;a y bomberos.</p>
-        <p>Gesti&#xF3;n de seguros.</p>
-        <p>Legales: Jueces, abogados, etc.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Humanos</td>
-      <td style="text-align:left">
-        <p>P&#xE9;rdida de productividad (durante tratamiento y rehabilitaci&#xF3;n).</p>
-        <p>P&#xE9;rdida de productividad futura de fallecidos.</p>
-        <p>Sufrimiento f&#xED;sico y psicol&#xF3;gico del lesionado.</p>
-        <p>Sufrimiento f&#xED;sico y psicol&#xF3;gico de familiares y amigos.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
